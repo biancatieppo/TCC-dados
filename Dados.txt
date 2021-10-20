@@ -1,0 +1,16 @@
+ecg_06-08_1
+
+ecg_20-08_1 Bianca
+ecg_20-08_2 Bianca
+ecg_20-08_3 Kamila
+
+ecg_08-10_1 Bianca
+ecg_08-10_2 Bianca
+ecg_08-10_3 Bianca
+
+ecg_simulador_15-10_1 60 bpm
+ecg_simulador_15-10_2 60 bpm
+ecg_simulador_15-10_3 120 bpm
+ecg_simulador_15-10_4 120 bpm
+ecg_simulador_15-10_5 120 bpm (horário)
+ecg_simulador_15-10_6 60 bpm (horário)
